@@ -1,7 +1,4 @@
-# Global_Sales_Performance
-
-
-Global Sales Performance Dashboard | Microsoft Excel | Advanced Excel BI Project
+# Global Sales Performance Dashboard | Microsoft Excel | Advanced Excel BI Project
 
 Objective: To enable management to track performance by category, geography, and time—using only Excel’s built-in BI capabilities. 
 
